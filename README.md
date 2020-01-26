@@ -1,1 +1,3 @@
-# JavaScript-Projects-for-Beginners
+# JavaScript-Toy-Projects
+
+1. change color background
